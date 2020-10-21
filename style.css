@@ -1,0 +1,43 @@
+h1 {
+    color: #ffffff;
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+/** {
+    border: solid;
+}*/
+
+.header{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    margin: 0px ; 
+    background-color: #808080;
+}
+
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+
+h2,h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-family: cursive;
+    padding: 0px;
+    padding-right: 5px;
+}
